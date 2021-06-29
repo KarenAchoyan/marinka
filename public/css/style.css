@@ -1,0 +1,13 @@
+.top_logo img{
+    width: 150px;
+}
+.footer_area{
+    text-align: center;
+}
+.footer_area p{
+    margin-top: 30px;
+}
+.single-testimonial-area iframe{
+    width: 100%;
+    height: 300px;
+}
